@@ -1,0 +1,643 @@
+html {
+  font-size: 0.6em;
+}
+
+body {
+  margin: 0;
+  padding: 0px;
+  padding-top: 0px;
+ 
+}
+
+h1 {
+
+  font-family: Libre Caslon Display;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 62px;
+  letter-spacing: 0em;
+}
+
+.lefttopnamepos {
+
+  padding: 27px;
+  margin-top: 27px;
+  position: relative;
+  width: 167px;
+  height: 37px;
+  left: 32px;
+  top: 32px;
+
+}
+
+.lefttopname {
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 900;
+  text-align: left;
+  color: #FFFFFF;
+  position: absolute;
+  padding-top: 23px;
+  padding-left: 20px;
+}
+
+
+.artsec{
+  text-align: left;
+  max-width: 890px;
+  max-height: 198px;
+  line-height: 99px;
+  font-family: 'Libre Caslon Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  color: #FFFFFF;
+  padding: 0px;
+ 
+  margin-left: 72px;
+  position: relative;
+  left: 0px;
+  top: 362px;
+  margin-right: auto;
+ 
+  margin-top: 0px;
+  margin-bottom: 0%;
+ 
+ 
+
+}
+
+.artdes {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+  position: relative;
+  left: 72px;
+  top: 392px;
+  height: 60px;
+  width: 528px;
+  margin-top: 30px;
+}
+
+.learnmore{
+  position: absolute;
+  box-sizing: border-box;
+  width: 173px;
+  height: 42px;
+  left: 72px;
+  top: 720px;
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-top: 9px;
+  padding-bottom: 11px;
+  border: 2px solid #FFFFFF;
+  border-radius: 10px;
+  text-decoration: none;
+
+  max-height: 42px;
+  max-width: 163px;
+
+  border-radius: 10px;
+
+
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #FFFFFF;
+
+}
+
+.imagecontaneir {
+  background-image: url("Background.png");
+  height: 1024px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 190%;
+
+}
+
+.topnav {
+  background-color: transparent;
+  overflow: hidden;
+  float: right;
+  padding: 25px;
+  display: block;
+
+}
+
+#getstarted {
+  box-sizing: border-box;
+  width: 153px;
+  height: 42px;
+  left: 0px;
+  top: 0px;
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-top: 9px;
+  padding-bottom: 11px;
+
+  border: 2px solid #FFFFFF;
+  border-radius: 10px;
+}
+
+
+
+.whitebox {
+  position: absolute;
+  width: 90px;
+  height: 15px;
+  background: #FFFFFF;
+  top: 285px;
+  left: 72px;
+  right: 1278;
+  bottom: 724;
+
+}
+
+.newsread{
+  position: absolute;
+  height: 48px;
+  width: 269px;
+  left: 72px;
+  top: 1113px;
+  border-radius: nullpx;
+
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  color: #000000;
+  }
+
+.card-container {
+  margin-top: 181px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 61px;
+  margin-left:70px auto;
+  margin-right: 70px auto;
+}
+
+.card {
+  display: block;
+  width: 100%;
+  max-height: 838px ;
+  max-width: 390px;
+  margin: 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.card-title {
+  margin-top: 35px;
+  margin-left: 32px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 5px 10px;
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #D9852C;
+  text-decoration: none;
+}
+
+.carddate{
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 500;
+  color: #B7B7B7;
+}
+
+.cardpara{
+  font-family: Inter;
+  width: 324px;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left: 32px;
+  padding-right: 32px;
+  
+}
+
+.btn-secondary {
+  position: relative;
+  bottom: 10px;
+  left:240px;
+}
+
+.btn-ssecondary {
+  position: relative;
+  bottom: 10px;
+  left:240px;
+}
+
+.btn-sssecondary {
+  position: relative;
+  top: 20px;
+  left:240px;
+}
+
+
+
+
+
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  font-family: Inter;
+  color: #f2f2f2;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 27px;
+}
+
+
+
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+
+
+@media screen and (max-width: 1330px) {
+
+  .artsec{
+    text-align: left;
+    max-width: 890px;
+    max-height: 198px;
+    line-height: 70px;
+    font-family: 'Libre Caslon Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    color: #FFFFFF;
+    padding: 0px;
+   
+    margin-left: 72px;
+    position: relative;
+    left: 0px;
+    top: 362px;
+    margin-right: auto;
+   
+    margin-top: 0px;
+    margin-bottom: 0%;
+   
+   
+  
+  }
+
+}
+
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 888px) {
+  .topnav a:not(:last-child) {
+    display: none;
+  }
+
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+
+
+
+
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 888px) {
+
+  .learnmore{
+    position: absolute;
+    top: 720px;
+    left: 72px; 
+    
+    }
+
+  .card-container {
+    margin-top: 181px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 61px;
+    margin-left:auto;
+    margin-right: auto;
+  }
+
+  .card {
+    display: block;
+    
+    height: 635px ;
+    max-width: 187px;
+    margin: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+  
+  }
+  
+  .card img {
+    width: 100%;
+    height: 352px;
+    display: block;
+  }
+  
+  .carddate{
+   
+    font-size: 13px;
+   
+   
+  }
+
+  .cardpara{
+    max-height: 126px;
+    max-width: 123px;
+    font-size: 15px;
+    line-height: 18px;
+    
+  }
+
+  .btn-secondary{
+    
+    position: relative;
+    top: 10px;
+    left: 38px;
+  }
+
+  .btn-ssecondary{
+    top:25px;
+    left: 38px
+  }
+
+  .btn-sssecondary {
+    position: relative;
+    top: 43px;
+    left: 38px;
+  }
+  
+  .artsec{
+    
+    position: absolute;
+    top: 400px;
+    max-width: auto;
+    max-height: 174px;
+    margin: 0px;
+    font-family: 'Libre Caslon Display';
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 87px;
+    text-align: left;
+    margin-left: 72px;
+
+  }
+
+.artdes{
+  position: absolute;
+  top: 580px;
+  left: 80px;
+  max-width: auto;
+  max-height: 60px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+
+  color: #FFFFFF;
+
+  }
+
+  .topnav.responsive {
+    position: relative;
+    padding: 0px;
+    display: block;
+    justify-content: center;
+    width: 100%
+  }
+
+  #home {
+    padding-top: 50px;
+  }
+
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 0px;
+    padding-top: 0px;
+  }
+
+  #getstarted {
+    box-sizing: border-box;
+    width: 153px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 9px;
+    padding-bottom: 11px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+  }
+
+  .topnav a.icon {
+    float: right;
+    position: absolute;
+    right: 16px;
+    font-size: 18px;
+    margin-top: 20px;
+    top: 8px;
+  }
+}
+
+@media screen and (max-width: 688px) {
+  .learnmore{
+  position: absolute;
+  top: 740px;
+  left: 20px;  
+  margin-top: 0%;
+  margin-left: 0px;
+    
+
+  }
+
+  .whitebox {
+    position: absolute;
+    width: 90px;
+    height: 15px;
+    background: #FFFFFF;
+    top: 285px;
+    left: 20px;
+    right: 1278;
+    bottom: 724;
+  
+  }
+
+.artsec{
+    position: absolute;
+    font-family: Libre Caslon Display;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+   
+    left:20px;
+    
+
+
+}
+
+.artdes{
+  position: absolute;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 30px;
+  padding: 0px;
+  margin: 0px;
+  margin-right: 0px;
+  max-height: 90px;
+  max-width: 314px;
+  text-align: left;
+  top:600px;
+  left:20px;
+  }
+
+  .card-container {
+    margin-top: 181px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 61px;
+    margin-left:auto;
+    margin-right: auto;
+  }
+
+
+  .card {
+    display: block;
+    width: 100%;
+    max-height: 619px ;
+    max-width: 311px;
+    margin: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+  
+  }
+
+  .card-title {
+    margin-top: 35px;
+    margin-left: 32px;
+  }
+  
+  .btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #D9852C;
+    text-decoration: none;
+  }
+  
+  .carddate{
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+    color: #B7B7B7;
+  }
+  
+  .cardpara{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 120px;
+    max-height: 120px;
+    max-width: 247px;
+    margin-left: 32px;
+    position: relative;
+    left: 32px;
+
+
+ 
+    
+  }
+
+  .card-text{
+    margin: 0px;
+  }
+  
+  .btn-secondary {
+    position: relative;
+    bottom: 0px;
+    left:150px;
+    margin-bottom: 32px;
+  }
+  
+  .btn-ssecondary {
+    position: relative;
+    top: 10px;
+    left:150px;
+    margin-bottom: 32px;
+  }
+  
+  .btn-sssecondary {
+    position: relative;
+    top: 0px;
+    left:150px;
+    margin-bottom: 32px;
+  }
+  
+
+}
+
+
